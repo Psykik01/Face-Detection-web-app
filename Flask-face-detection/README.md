@@ -38,8 +38,6 @@ To deploy this project run
 ```
 
   
-## Demo
-![gif1](https://user-images.githubusercontent.com/67871111/130377572-1e5370ec-0346-4991-a369-33706c3680fb.gif)
 
 
 ## Screenshots
@@ -47,8 +45,6 @@ To deploy this project run
 
 ![SS-](https://user-images.githubusercontent.com/67871111/130379917-a2b5994a-8b87-43fc-8368-8ca18b355f6a.jpg)
 
-
-![SS-1](https://user-images.githubusercontent.com/67871111/130379839-d1d90ad8-c923-4c7b-9dd6-589396c465ac.jpg)
 
 
 
